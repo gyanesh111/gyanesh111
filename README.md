@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gyanesh Verma</h1>
-<h3 align="center">A Full Stack Developer, A Data Analyst From Bengaluru</h3>
+<h3 align="center">A Full Stack Developer and Data Analyst From Bengaluru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanesh111&label=Profile%20views&color=0e75b6&style=flat" alt="gyanesh111" /> </p>
 
