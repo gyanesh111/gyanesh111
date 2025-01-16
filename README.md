@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gyanesh Verma</h1>
-<h3 align="center">Full Stack Developer and Data Analyst</h3>
+<h3 align="center">Senior Associate Developer - Full Stack </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanesh111&label=Profile%20views&color=0e75b6&style=flat" alt="gyanesh111" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/gyanesh_verma" target="blank"><img src="https://img.shields.io/twitter/follow/gyanesh_verma?logo=twitter&style=for-the-badge" alt="gyanesh_verma" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend and data Science Projects**
+- 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **Data Science and MERN Stack**
+- 🌱 I’m am keen interested in **AI/ML**
 
-- 👯 I’m looking to collaborate on **Data Science and Full Stack Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects,  DevOps and Backend Development**
 
-- 💬 Ask me about **Python, C++, Data Science and Full Stack Development**
+- 💬 Ask me about **Java, Python, MERN Stack Development**
 
 - 📫 How to reach me **Email- gyaneshverma999@gmail.com, Contact No: +918755980646**
 
